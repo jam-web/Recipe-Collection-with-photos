@@ -50,6 +50,7 @@ main p {
 .card {
 	margin: 25px 0;
 	overflow: auto;
+	overflow:  visible;
 }
 
 /**********CARD************/
@@ -68,7 +69,6 @@ main p {
 	padding:  20px;
 	width:  500px;
 }
-
 
 #cookies .image {
 	background-image: url("../img/gluten-free-sugar-cookies.jpg");
